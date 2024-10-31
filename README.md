@@ -1,6 +1,6 @@
 # Omdena_Hackathon_blog_writer-vijay
 multi agent based simple project where it write a blog on given topic and it will provide option to download it as word document.
-1. Clone the repository
+##1. Clone the repository
 git clone https://github.com/vijayakrishna92/Omdena_Hackathon_blog_writer-vijay.git 
 
 cd your-app-project
